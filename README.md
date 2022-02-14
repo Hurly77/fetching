@@ -2,10 +2,10 @@
 
 **NOTE:** the `fetch()` function is also an api, so if you see fetch api, it is referring to the function `fetch` not the REST api you chose.
 
-- create a "function" `get()` that retrieves data from the chosen API
-- use that data to display information to the user.
-- create a button that when click will run the function again.
-- create an `<input type="number"/>` that runs a function to get an item from your api by id.
+- [ ] create a "function" `get()` that retrieves data from the chosen API
+- [ ] use that data to display information to the user.
+- [ ] create a button that when click will run the function again.
+- [ ] create an `<input type="number"/>` that runs a function to get an item from your api by id.
 
 ## RESOURCES
 
