@@ -1,18 +1,21 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="emerald">
 
 <head>
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="https://cdn.jsdelivr.net/npm/daisyui@2.0.6/dist/full.css"
+    rel="stylesheet" type="text/css" />
   <script src="https://cdn.tailwindcss.com"></script>
+
   <title>Working with Rest Api</title>
 </head>
 
 <body>
   <div id="nav" class="flex items-center border-b h-16 mb-10">
-    <div class="px-10 w-1/5 flex-wrap justify-between">
-      <a href="/home.html"
+    <div class="px-10 w-1/5 flex justify-between">
+      <a href="/index.html"
         class="text-xl rounded-lg p-3 hover:bg-gray-200 cursor-pointer">Link
         1</a>
       <a class="text-xl rounded-lg p-3 hover:bg-gray-200 cursor-pointer">Link
@@ -21,10 +24,13 @@
         3</a>
     </div>
   </div>
-  <div id="page" class="flex justify-center">
-
+  <h1 class="text-6xl my-5 justify-center flex">Spells</h1>
+  <div id="spells"
+    class="flex flex-wrap w-screen gap-y-5 gap-x-3 justify-center">
   </div>
-  <script src="./script.js"></script>
+  <script src="./script.js">
+
+  </script>
 </body>
 
 </html>

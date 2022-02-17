@@ -11,4 +11,6 @@
 
 - [fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [Using the Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
-- [How to pull data from api](https://rapidapi.com/blog/how-to-use-an-api-with-javascript/)
+- [How to pull data from api](https://rapidapi.com/blog/how-to-use-an-api-with-javascript/)\
+- [daisyui](https://daisyui.com)
+- [tailwindcss](https://tailwindcss.com/docs)
